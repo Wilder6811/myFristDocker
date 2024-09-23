@@ -1,0 +1,21 @@
+# Ignorar node_modules (ya que las dependencias se instalan dentro del contenedor)
+node_modules
+
+# Ignorar archivos de logs
+npm-debug.log
+yarn-error.log
+
+# Ignorar archivos de entorno
+.env
+
+# Ignorar archivos de configuración de IDE/editor
+.vscode
+.idea
+
+# Ignorar archivos de Git
+.git
+.gitignore
+
+# Ignorar cualquier archivo temporario
+*.swp
+*.tmp

@@ -1,0 +1,16 @@
+{
+    "name": "backend-app",
+    "version": "1.0.0",
+    "description": "Una aplicación de backend con Docker",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "dependencies": {
+        "express": "^4.21.0",
+        "pg": "^8.13.0"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
